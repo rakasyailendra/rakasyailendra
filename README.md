@@ -3,7 +3,12 @@ hello i'm a frond end developer👨🏻‍💻🔥<br>I am a undergradde at UPN 
 
 
 ## 🌐 Let's Connect With Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/UvHQkYhS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rakasyainz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rakasyainz/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://id.pinterest.com/mrakhasyailendra/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@ryuniversse) 
+ [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://id.pinterest.com/mrakhasyailendra/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@ryuniversse) 
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/rakasyainz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https:/www.linkedin.com/in/rakasyainz/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/https://www.instagram.com/rakasyainz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/https://www.instagram.com/rakasyainz/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/invite/UvHQkYhS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/UvHQkYhS" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack Leaning
 <h3 align="left">Languages and Tools:</h3>
