@@ -33,7 +33,9 @@ Screenshots of Features ✨
  <img src="social media.gif" alt="GitHub Banner" width="100000%" />
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000"> 
 
-## 🏆 GitHub Trophies
+ 🏆 GitHub Trophies
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ![](https://github-profile-trophy.vercel.app/?username=rakasyailendra&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Developer Quote
@@ -43,10 +45,13 @@ Screenshots of Features ✨
 ![](https://github-contributor-stats.vercel.app/api?username=rakasyailendra&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 
-#
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img src="closing.jpg" alt="GitHub Banner" width="100000%" />
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 ---
 <picture>
