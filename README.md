@@ -1,4 +1,4 @@
-<img src="header profiles.jpg" alt="GitHub Banner" width="1000%" />
+<img src="header profiles.jpg" alt="GitHub Banner" width="100000%" />
 
 
 # 👀About Me
