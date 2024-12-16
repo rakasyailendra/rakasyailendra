@@ -4,7 +4,7 @@
 # 👀About Me
 hello i'm a frond end developer👨🏻‍💻🔥<br>I am a undergradde at UPN "Veteran" East Java in the Informatics Study Program, <br>I focus on Front-end Web Developer and I am also learning about data science and<br> I am still growing in progress, enthusiasm📊
 
-
+[![](https://visitcount.itsvg.in/api?id=rakasyailendra&icon=9&color=5)](https://visitcount.itsvg.in)
 ## 🌐 Let's Connect With Me
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/rakasyainz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https:/www.linkedin.com/in/rakasyainz/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/https://www.instagram.com/rakasyainz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/https://www.instagram.com/rakasyainz/" height="30" width="40" /></a>
@@ -33,18 +33,16 @@ hello i'm a frond end developer👨🏻‍💻🔥<br>I am a undergradde at UPN 
 ![](https://github-contributor-stats.vercel.app/api?username=rakasyailendra&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rakasyailendra&icon=9&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#
+<img src="closing.jpg" alt="GitHub Banner" width="100000%" />
 
+#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
-#
-
-<img src="closing.jpg" alt="GitHub Banner" width="100000%" />
 
