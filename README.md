@@ -1,5 +1,5 @@
+<img src="welcome.gif" alt="GitHub Banner" width="100000%" />
 <img src="header profiles.jpg" alt="GitHub Banner" width="100000%" />
-
 
 # 👀About Me
 hello i'm a frond end developer👨🏻‍💻🔥<br>I am a undergradde at UPN "Veteran" East Java in the Informatics Study Program, <br>I focus on Front-end Web Developer and I am also learning about data science and<br> I am still growing in progress, enthusiasm📊
