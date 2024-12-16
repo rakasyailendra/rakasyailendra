@@ -28,6 +28,11 @@ hello i'm a frond end developer👨🏻‍💻🔥<br>I am a undergradde at UPN 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakasyailendra&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakasyailendra&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+ <img src="social media.gif" alt="GitHub Banner" width="100000%" />
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakasyailendra&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
