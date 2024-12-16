@@ -32,13 +32,13 @@ hello i'm a frond end developer👨🏻‍💻🔥<br>I am a undergradde at UPN 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rakasyailendra&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
----
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 #
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <img src="closing.jpg" alt="GitHub Banner" width="100000%" />
 
-#
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
