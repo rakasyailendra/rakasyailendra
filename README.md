@@ -8,7 +8,7 @@ hello i'm a frond end developer👨🏻‍💻🔥<br>I am a undergradde at UPN 
 
 [![](https://visitcount.itsvg.in/api?id=rakasyailendra&icon=9&color=5)](https://visitcount.itsvg.in)
 ## 🌐 Let's Connect With Me
-<a href="https:/www.linkedin.com/in/rakasyainz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="//https://www.linkedin.com/in/rakasyainz/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakasyainz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="//https://www.linkedin.com/in/rakasyainz/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rakasyainz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://https://www.instagram.com/rakasyainz/" height="30" width="40" /></a>
 <a href="https://discord.com/invite/UvHQkYhS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/UvHQkYhS" height="30" width="40" /></a>
 
